@@ -7,8 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          E1212awdawdawd1212dit <code>src/App.js</code> and ololo save to reload
-          111.
+          MY NAME IS<code>src/App.js</code> and ololo save to reload 111.
         </p>
         <a
           className="App-link"
