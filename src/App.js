@@ -6,9 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          MY NAME IS<code>src/App.js</code> and ololo save to reload 111.
-        </p>
+        <p>This is deploy react app docker container</p>
         <a
           className="App-link"
           href="https://reactjs.org"
